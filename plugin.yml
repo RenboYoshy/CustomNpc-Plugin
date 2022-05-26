@@ -1,0 +1,7 @@
+name: CustomNPC
+version: 0.1
+author: RainbowYoshi
+main: fr.rainbowyoshi.customnpc.Main
+commands:
+  npc:
+    description: toutes les commandes pour les npc
